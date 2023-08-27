@@ -71,7 +71,7 @@ Um projeto de revelação de texto animado criado usando HTML, CSS e JavaScript.
 Link para o Vídeo de Demonstração:
 [Assista ao Vídeo](https://youtu.be/Dr6aCVIemGg?si=lDKlsEMYbB9SnioZ)
 
-Link: [Text Reveal](https://codeclayton.github.io/Projetos-HTML-CSS-JS/07-Text-Reveal/)
+Link: [Text Reveal](https://codeclayton.github.io/Projetos-HTML-CSS-JS/06-Text-Reveal/)
 
 ---
 
@@ -80,10 +80,10 @@ Link: [Text Reveal](https://codeclayton.github.io/Projetos-HTML-CSS-JS/07-Text-R
 Um pequeno projeto de interruptor de lâmpada interativo usando HTML, CSS e JavaScript.
 
 
-![Lâmpada Ligada](08-Lamp-Broken/Preview-Lamp-Broken.JPG)
-![Lâmpada Quebrada](08-Lamp-Broken/Preview-Lamp-Broken2.JPG)
+![Lâmpada Ligada](07-Lamp-Broken/Preview-Lamp-Broken.JPG)
+![Lâmpada Quebrada](07-Lamp-Broken/Preview-Lamp-Broken2.JPG)
 
-Link: [Lamp Broken](https://codeclayton.github.io/Projetos-HTML-CSS-JS/08-Lamp-Broken/)
+Link: [Lamp Broken](https://codeclayton.github.io/Projetos-HTML-CSS-JS/07-Lamp-Broken/)
 
 ---
 
@@ -92,9 +92,9 @@ Link: [Lamp Broken](https://codeclayton.github.io/Projetos-HTML-CSS-JS/08-Lamp-B
 Um site com degradê em movimento com Keyframes
 
 
-![Background Degrade](09-Background-Degrade/Preview-Back-Degrade.JPG)
+![Background Degrade](08-Background-Degrade/Preview-Back-Degrade.JPG)
 
-Link: [Background Degrade](https://codeclayton.github.io/Projetos-HTML-CSS-JS/09-Background-Degrade/)
+Link: [Background Degrade](https://codeclayton.github.io/Projetos-HTML-CSS-JS/08-Background-Degrade/)
 
 ---
 
@@ -103,9 +103,9 @@ Link: [Background Degrade](https://codeclayton.github.io/Projetos-HTML-CSS-JS/09
 Projeto divertido onde o elemento segue o cursor do mouse.
 
 
-![Seguir Cursor](10-Seguir-Cursor/Preview-Seguir-Cusor.png)
+![Seguir Cursor](09-Seguir-Cursor/Preview-Seguir-Cusor.png)
 
-Link: [Seguir Cursor](https://codeclayton.github.io/Projetos-HTML-CSS-JS/10-Seguir-Cursor/)
+Link: [Seguir Cursor](https://codeclayton.github.io/Projetos-HTML-CSS-JS/09-Seguir-Cursor/)
 
 <hr>
 
