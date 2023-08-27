@@ -77,10 +77,10 @@ Link: [Change Background](https://codeclayton.github.io/Projetos-HTML-CSS-JS/06-
 
 ## 07. Text Reveal ✨
 
-Uma animação de Text Reveal com Keyframes 
+Um projeto de revelação de texto animado criado usando HTML, CSS e JavaScript.
 
-Imagem:
-![Text Reveal](07-Text-Reveal/Preview-Text-Reveal.mp4)
+Link para o Vídeo de Demonstração:
+[Assista ao Vídeo](https://youtu.be/Dr6aCVIemGg?si=lDKlsEMYbB9SnioZ)
 
 Link: [Text Reveal](https://codeclayton.github.io/Projetos-HTML-CSS-JS/07-Text-Reveal/)
 
