@@ -8,7 +8,7 @@ Bem-vindo à minha coleção de projetos de desenvolvimento web! Aqui estão alg
 
 Projeto do Curso em Video de HTML e CSS
 
-Imagem:
+
 ![Projeto Android](01-Projeto-Android/Preview-Projeto-Android.JPG)
 
 Link: [Projeto Android](https://codeclayton.github.io/Projetos-HTML-CSS-JS/01-Projeto-Android/#)
@@ -19,7 +19,7 @@ Link: [Projeto Android](https://codeclayton.github.io/Projetos-HTML-CSS-JS/01-Pr
 
 Relogio da hora atual, que muda o fundo degradê de acordo com o hórario
 
-Imagem:
+
 ![Projeto Relógio](02-Projeto-Relogio/Preview-Projeto-Relogio.JPG)
 
 Link: [Projeto Relógio](https://codeclayton.github.io/Projetos-HTML-CSS-JS/02-Projeto-Relogio/)
@@ -30,7 +30,7 @@ Link: [Projeto Relógio](https://codeclayton.github.io/Projetos-HTML-CSS-JS/02-P
 
 Projeto do Curso em video de um cordel com efeito paralax
 
-Imagem:
+
 ![Projeto Cordel](03-projeto-cordel/Preview-projeto-cordel.JPG)
 
 Link: [Projeto Cordel](https://codeclayton.github.io/Projetos-HTML-CSS-JS/03-projeto-cordel/)
@@ -41,7 +41,7 @@ Link: [Projeto Cordel](https://codeclayton.github.io/Projetos-HTML-CSS-JS/03-pro
 
 Um cronometro criado com HTML CSS JS 
 
-Imagem:
+
 ![Projeto Cronômetro](04-projeto-cronometro/Preview-Projeto-Cronometro.JPG)
 
 Link: [Projeto Cronômetro](https://codeclayton.github.io/Projetos-HTML-CSS-JS/04-projeto-cronometro/)
@@ -57,7 +57,7 @@ Uma calculadora que efetua as operações de:
 -Multiplicação <br>
 -Divisão <br>
 
-Imagem:
+
 ![Calculadora Simples](05-Calculadora-Simples/Preview-Calculadora-Simples.JPG)
 
 Link: [Calculadora Simples](https://codeclayton.github.io/Projetos-HTML-CSS-JS/05-Calculadora-Simples/)
@@ -68,7 +68,7 @@ Link: [Calculadora Simples](https://codeclayton.github.io/Projetos-HTML-CSS-JS/0
 
 Selecionar qual será o fundo com JS
 
-Imagem:
+
 [Change Background](06-Change-Background/Preview-Change-Background.JPG)
 
 Link: [Change Background](https://codeclayton.github.io/Projetos-HTML-CSS-JS/06-Change-Background/)
@@ -90,7 +90,7 @@ Link: [Text Reveal](https://codeclayton.github.io/Projetos-HTML-CSS-JS/07-Text-R
 
 Um pequeno projeto de interruptor de lâmpada interativo usando HTML, CSS e JavaScript.
 
-Imagens:
+
 ![Lâmpada Ligada](08-Lamp-Broken/Preview-Lamp-Broken.JPG)
 ![Lâmpada Quebrada](08-Lamp-Broken/Preview-Lamp-Broken2.JPG)
 
@@ -102,7 +102,7 @@ Link: [Lamp Broken](https://codeclayton.github.io/Projetos-HTML-CSS-JS/08-Lamp-B
 
 Um site com degradê em movimento com Keyframes
 
-Imagem:
+
 ![Background Degrade](09-Background-Degrade/Preview-Back-Degrade.JPG)
 
 Link: [Background Degrade](https://codeclayton.github.io/Projetos-HTML-CSS-JS/09-Background-Degrade/)
@@ -113,7 +113,7 @@ Link: [Background Degrade](https://codeclayton.github.io/Projetos-HTML-CSS-JS/09
 
 Projeto divertido onde o elemento segue o cursor do mouse.
 
-Imagem:
+
 ![Seguir Cursor](10-Seguir-Cursor/Preview-Seguir-Cusor.png)
 
 Link: [Seguir Cursor](https://codeclayton.github.io/Projetos-HTML-CSS-JS/10-Seguir-Cursor/)
