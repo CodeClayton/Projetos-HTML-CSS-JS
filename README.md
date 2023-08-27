@@ -28,7 +28,7 @@ Link: [Projeto Relógio](https://codeclayton.github.io/Projetos-HTML-CSS-JS/02-P
 
 ## 03. Projeto Cordel :scroll:
 
-projeto do Curso em video de um cordel com efeito paralax
+Projeto do Curso em video de um cordel com efeito paralax
 
 Imagem:
 ![Projeto Cordel](03-projeto-cordel/Preview-projeto-cordel.JPG)
@@ -52,10 +52,10 @@ Link: [Projeto Cronômetro](https://codeclayton.github.io/Projetos-HTML-CSS-JS/0
 
 Uma calculadora que efetua as operações de:
 
--Soma
--Subtração
--Multiplicação
--Divisão
+-Soma <br>
+-Subtração <br>
+-Multiplicação <br>
+-Divisão <br>
 
 Imagem:
 ![Calculadora Simples](05-Calculadora-Simples/Preview-Calculadora-Simples.JPG)
@@ -69,7 +69,7 @@ Link: [Calculadora Simples](https://codeclayton.github.io/Projetos-HTML-CSS-JS/0
 Selecionar qual será o fundo com JS
 
 Imagem:
-![Change Background](06-Change-Background/Preview-Change-Background.JPG)
+[Change Background](06-Change-Background/Preview-Change-Background.JPG)
 
 Link: [Change Background](https://codeclayton.github.io/Projetos-HTML-CSS-JS/06-Change-Background/)
 
