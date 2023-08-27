@@ -103,21 +103,21 @@ Link: [Lamp Broken](https://codeclayton.github.io/Projetos-HTML-CSS-JS/08-Lamp-B
 Um site com degradê em movimento com Keyframes
 
 Imagem:
-![Background Degradee](link-da-imagem)
+![Background Degrade](09-Background-Degrade/Preview-Back-Degrade.JPG)
 
-Link: [Background Degradee](https://github.com/seu-usuario/09-Background-Degradee)
+Link: [Background Degrade](https://codeclayton.github.io/Projetos-HTML-CSS-JS/09-Background-Degrade/)
 
 ---
 
 ## 10. Seguir Cursor 🐭
 
-Breve descrição do Seguir Cursor.
+Projeto divertido onde o elemento segue o cursor do mouse.
 
 Imagem:
-![Seguir Cursor](link-da-imagem)
+![Seguir Cursor](10-Seguir-Cursor/Preview-Seguir-Cusor.png)
 
-Link: [Seguir Cursor](https://github.com/seu-usuario/10-Seguir-Cursor)
+Link: [Seguir Cursor](https://codeclayton.github.io/Projetos-HTML-CSS-JS/10-Seguir-Cursor/)
 
----
+<hr>
 
-Espero que você goste dos projetos! Se tiver alguma pergunta ou quiser colaborar, sinta-se à vontade para entrar em contato. :email:
+Espero que você goste dos projetos! Se tiver alguma pergunta ou quiser colaborar, sinta-se à vontade para entrar em contato.
