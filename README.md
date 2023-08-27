@@ -6,56 +6,61 @@ Bem-vindo à minha coleção de projetos de desenvolvimento web! Aqui estão alg
 
 ## 01. Projeto Android :iphone:
 
-Um projeto do Curso em Video de HTML e CSS
+Projeto do Curso em Video de HTML e CSS
 
 Imagem:
 ![Projeto Android](01-Projeto-Android/Preview-Projeto-Android.JPG)
 
-Link: [Projeto Android](https://github.com/seu-usuario/01-Projeto-Android)
+Link: [Projeto Android](https://codeclayton.github.io/Projetos-HTML-CSS-JS/01-Projeto-Android/#)
 
 ---
 
 ## 02. Projeto Relógio ⏰
 
-Breve descrição do Projeto Relógio.
+Relogio da hora atual, que muda o fundo degradê de acordo com o hórario
 
 Imagem:
-![Projeto Relógio](link-da-imagem)
+![Projeto Relógio](02-Projeto-Relogio/Preview-Projeto-Relogio.JPG)
 
-Link: [Projeto Relógio](https://github.com/seu-usuario/02-Projeto-Relogio)
+Link: [Projeto Relógio](https://codeclayton.github.io/Projetos-HTML-CSS-JS/02-Projeto-Relogio/)
 
 ---
 
 ## 03. Projeto Cordel :scroll:
 
-Breve descrição do Projeto Cordel.
+projeto do Curso em video de um cordel com efeito paralax
 
 Imagem:
-![Projeto Cordel](link-da-imagem)
+![Projeto Cordel](03-projeto-cordel/Preview-projeto-cordel.JPG)
 
-Link: [Projeto Cordel](https://github.com/seu-usuario/03-Projeto-Cordel)
+Link: [Projeto Cordel](https://codeclayton.github.io/Projetos-HTML-CSS-JS/03-projeto-cordel/)
 
 ---
 
 ## 04. Projeto Cronômetro ⏱️
 
-Breve descrição do Projeto Cronômetro.
+Um cronometro criado com HTML CSS JS 
 
 Imagem:
-![Projeto Cronômetro](link-da-imagem)
+![Projeto Cronômetro](04-projeto-cronometro/Preview-Projeto-Cronometro.JPG)
 
-Link: [Projeto Cronômetro](https://github.com/seu-usuario/04-Projeto-Cronometro)
+Link: [Projeto Cronômetro](https://codeclayton.github.io/Projetos-HTML-CSS-JS/04-projeto-cronometro/)
 
 ---
 
 ## 05. Calculadora Simples 🧮
 
-Breve descrição da Calculadora Simples.
+Uma calculadora que efetua as operações de:
+
+-Soma
+-Subtração
+-Multiplicação
+-Divisão
 
 Imagem:
-![Calculadora Simples](link-da-imagem)
+![Calculadora Simples](05-Calculadora-Simples/Preview-Calculadora-Simples.JPG)
 
-Link: [Calculadora Simples](https://github.com/seu-usuario/05-Calculadora-Simples)
+Link: [Calculadora Simples](https://codeclayton.github.io/Projetos-HTML-CSS-JS/05-Calculadora-Simples/)
 
 ---
 
