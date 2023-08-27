@@ -1,0 +1,11 @@
+main{
+
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+
+button{
+    width: 70px;
+    height: 25px;
+}
