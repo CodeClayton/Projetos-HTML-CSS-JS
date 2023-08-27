@@ -66,23 +66,23 @@ Link: [Calculadora Simples](https://codeclayton.github.io/Projetos-HTML-CSS-JS/0
 
 ## 06. Change Background 🌈
 
-Breve descrição do Change Background.
+Selecionar qual será o fundo com JS
 
 Imagem:
-![Change Background](link-da-imagem)
+![Change Background](06-Change-Background/Preview-Change-Background.JPG)
 
-Link: [Change Background](https://github.com/seu-usuario/06-Change-Background)
+Link: [Change Background](https://codeclayton.github.io/Projetos-HTML-CSS-JS/06-Change-Background/)
 
 ---
 
 ## 07. Text Reveal ✨
 
-Breve descrição do Text Reveal.
+Uma animação de Text Reveal com Keyframes 
 
 Imagem:
-![Text Reveal](link-da-imagem)
+![Text Reveal](07-Text-Reveal/Preview-Text-Reveal.mp4)
 
-Link: [Text Reveal](https://github.com/seu-usuario/07-Text-Reveal)
+Link: [Text Reveal](https://codeclayton.github.io/Projetos-HTML-CSS-JS/07-Text-Reveal/)
 
 ---
 
