@@ -88,18 +88,19 @@ Link: [Text Reveal](https://codeclayton.github.io/Projetos-HTML-CSS-JS/07-Text-R
 
 ## 08. Lamp Broken 💡
 
-Breve descrição do Lamp Broken.
+Um pequeno projeto de interruptor de lâmpada interativo usando HTML, CSS e JavaScript.
 
-Imagem:
-![Lamp Broken](link-da-imagem)
+Imagens:
+![Lâmpada Ligada](08-Lamp-Broken/Preview-Lamp-Broken.JPG)
+![Lâmpada Quebrada](08-Lamp-Broken/Preview-Lamp-Broken2.JPG)
 
-Link: [Lamp Broken](https://github.com/seu-usuario/08-Lamp-Broken)
+Link: [Lamp Broken](https://codeclayton.github.io/Projetos-HTML-CSS-JS/08-Lamp-Broken/)
 
 ---
 
-## 09. Background Degradee 🌅
+## 09. Background Degradê 🌅
 
-Breve descrição do Background Degradee.
+Um site com degradê em movimento com Keyframes
 
 Imagem:
 ![Background Degradee](link-da-imagem)
