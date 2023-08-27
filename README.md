@@ -64,18 +64,7 @@ Link: [Calculadora Simples](https://codeclayton.github.io/Projetos-HTML-CSS-JS/0
 
 ---
 
-## 06. Change Background 🌈
-
-Selecionar qual será o fundo com JS
-
-
-![Change Background](06-Change-Background/Preview-Change-Background.JPG)
-
-Link: [Change Background](https://codeclayton.github.io/Projetos-HTML-CSS-JS/06-Change-Background/)
-
----
-
-## 07. Text Reveal ✨
+## 06. Text Reveal ✨
 
 Um projeto de revelação de texto animado criado usando HTML, CSS e JavaScript.
 
@@ -86,7 +75,7 @@ Link: [Text Reveal](https://codeclayton.github.io/Projetos-HTML-CSS-JS/07-Text-R
 
 ---
 
-## 08. Lamp Broken 💡
+## 07. Lamp Broken 💡
 
 Um pequeno projeto de interruptor de lâmpada interativo usando HTML, CSS e JavaScript.
 
@@ -98,7 +87,7 @@ Link: [Lamp Broken](https://codeclayton.github.io/Projetos-HTML-CSS-JS/08-Lamp-B
 
 ---
 
-## 09. Background Degradê 🌅
+## 08. Background Degradê 🌅
 
 Um site com degradê em movimento com Keyframes
 
@@ -109,7 +98,7 @@ Link: [Background Degrade](https://codeclayton.github.io/Projetos-HTML-CSS-JS/09
 
 ---
 
-## 10. Seguir Cursor 🐭
+## 09. Seguir Cursor 🐭
 
 Projeto divertido onde o elemento segue o cursor do mouse.
 
