@@ -28,7 +28,9 @@ Link: [Projeto Relógio](https://codeclayton.github.io/Projetos-HTML-CSS-JS/02-P
 
 ## 03. Projeto Cordel :scroll:
 
-Projeto do Curso em video de um cordel com efeito paralax
+Projeto do Curso em video de um cordel com efeito paralax 
+
+-Projeto do Curso em Video de HTML e CSS
 
 
 ![Projeto Cordel](03-projeto-cordel/Preview-projeto-cordel.JPG)
@@ -75,38 +77,16 @@ Link: [Text Reveal](https://codeclayton.github.io/Projetos-HTML-CSS-JS/06-Text-R
 
 ---
 
-## 07. Lamp Broken 💡
 
-Um pequeno projeto de interruptor de lâmpada interativo usando HTML, CSS e JavaScript.
-
-
-![Lâmpada Ligada](07-Lamp-Broken/Preview-Lamp-Broken.JPG)
-![Lâmpada Quebrada](07-Lamp-Broken/Preview-Lamp-Broken2.JPG)
-
-Link: [Lamp Broken](https://codeclayton.github.io/Projetos-HTML-CSS-JS/07-Lamp-Broken/)
-
----
-
-## 08. Background Degradê 🌅
+## 07. Background Degradê 🌅
 
 Um site com degradê em movimento com Keyframes
 
 
-![Background Degrade](08-Background-Degrade/Preview-Back-Degrade.JPG)
+![Background Degrade](07-Background-Degrade/Preview-Back-Degrade.JPG)
 
-Link: [Background Degrade](https://codeclayton.github.io/Projetos-HTML-CSS-JS/08-Background-Degrade/)
-
----
-
-## 09. Seguir Cursor 🐭
-
-Projeto divertido onde o elemento segue o cursor do mouse.
+Link: [Background Degrade](https://codeclayton.github.io/Projetos-HTML-CSS-JS/07-Background-Degrade/)
 
 
-![Seguir Cursor](09-Seguir-Cursor/Preview-Seguir-Cusor.png)
-
-Link: [Seguir Cursor](https://codeclayton.github.io/Projetos-HTML-CSS-JS/09-Seguir-Cursor/)
-
-<hr>
 
 Espero que você goste dos projetos! Se tiver alguma pergunta ou quiser colaborar, sinta-se à vontade para entrar em contato.
